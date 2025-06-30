@@ -3,7 +3,7 @@
 # Đặt prefix cho tên project
 PROJECT_PREFIX="proxygen"
 NUM_PROJECTS=3
-REG_SCRIPT_URL="https://github.com/thttd94/dante-proxy-install/releases/download/v1.0.0/regproxygg.sh"
+REG_SCRIPT_URL="https://github.com/tc115/dante-proxy-install/blob/master/regproxygg.sh"
 
 # Tạo mảng để lưu các Project ID đã tạo
 PROJECT_IDS=()
