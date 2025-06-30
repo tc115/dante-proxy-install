@@ -8,7 +8,7 @@ SCRIPT_CMD='#!/bin/bash
 apt update -y
 apt install -y wget curl -y
 sleep 3
-wget https://github.com/thttd94/dante-proxy-install/releases/download/v1.0.0/googlecloud.sh -O /root/googlecloud.sh
+wget https://github.com/tc115/dante-proxy-install/blob/master/googlecloud.sh -O /root/googlecloud.sh
 chmod +x /root/googlecloud.sh
 bash /root/googlecloud.sh >> /root/install.log 2>&1
 '
